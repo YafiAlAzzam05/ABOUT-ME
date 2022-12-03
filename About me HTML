@@ -13,6 +13,7 @@
 	<body>
 		
 		<div class="container">
+			<!-- image moon -->
 			<div class="mode">
 				<img src="moon.png" id="icon">
 			</div>
