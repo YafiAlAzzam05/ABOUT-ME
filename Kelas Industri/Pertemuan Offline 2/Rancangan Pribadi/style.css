@@ -1,0 +1,13 @@
+.form {
+    width: 25%;
+    margin: 150px auto;
+}
+
+.btn {
+    background: blue;
+    color: white;
+    padding: 15px;
+    border: none;
+    border-radius: 15px;
+}
+
